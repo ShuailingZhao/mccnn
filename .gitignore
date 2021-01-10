@@ -15,7 +15,6 @@ net
 *.t7
 *.html
 *.pkl
-*.md
 *.pyc
 *.avi
 *.bmp
