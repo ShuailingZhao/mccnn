@@ -1,0 +1,10 @@
+#!/usr/bin/python
+
+import sys
+import cv2
+def  myreadimage(str):
+	img = cv2.imread(str)
+	h = img.shape[0]
+	w = img.shape[1]
+	return h
+#myreadimage(sys.argv[1]);
