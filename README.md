@@ -1,4 +1,5 @@
 ## Training and Test
+需要安装Torch,opencv,png++(好像不安装也可以)
 #### Start testing
 测试一对图像，可以按照官网github上的命令
 ```
